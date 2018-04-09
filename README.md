@@ -2,7 +2,7 @@
 
 ## Task 1
 
-Write a method that will return the numbers that contain the number '2' for any given number. Do this in the Calculator.swift file.
+Write a method that will return an array of numbers that contain the number '2' from '0' -> a given number. Do this in the Calculator.swift file.
 
 ![Task 1](/Documentation/screenshot2.png)
 
